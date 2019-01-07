@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         AutoInstaller installer = AutoInstaller.getDefault(MainActivity.this);
         installer.install(APK_FILE_PATH);
 //        installer.installFromUrl(APK_URL);
-        
+
+        Toast.makeText(this,"打开手机权限",Toast.LENGTH_LONG).show();
         installer.setOnStateChangedListener(new AutoInstaller.OnStateChangedListener() {
             @Override
             public void onStart() {

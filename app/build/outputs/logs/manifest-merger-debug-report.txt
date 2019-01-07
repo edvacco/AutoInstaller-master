@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6ac4b7281868318c165058803dc854b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\03216e393e359841ed94acf1116b9e5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e38c31e7f6f601d55f7bdc089da725b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7e1c61b67267ddab7c9fec357ed99cad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d4a268eaf499c56ab1265216734a3ba3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\85a663c0a8f6385a9931efd1b42b3b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8a645d5e5ba7e26e653ac7b521d86562\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\221eba914fff438ffcbc5fd356ff9e1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\017ca4bc1b038027946fc0a86244d637\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55641b6141e82a25b41f464e1a9ba282\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb341ebe10d4c2e10f44d0189cd4fb06\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:3:11-43
+	android:versionName
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-47:19
+MERGED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-47:19
+	android:supportsRtl
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#top.wuhaojie.installer.MainActivity
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+MERGED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6ac4b7281868318c165058803dc854b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6ac4b7281868318c165058803dc854b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\03216e393e359841ed94acf1116b9e5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\03216e393e359841ed94acf1116b9e5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e38c31e7f6f601d55f7bdc089da725b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e38c31e7f6f601d55f7bdc089da725b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7e1c61b67267ddab7c9fec357ed99cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7e1c61b67267ddab7c9fec357ed99cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d4a268eaf499c56ab1265216734a3ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d4a268eaf499c56ab1265216734a3ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\85a663c0a8f6385a9931efd1b42b3b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\85a663c0a8f6385a9931efd1b42b3b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8a645d5e5ba7e26e653ac7b521d86562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8a645d5e5ba7e26e653ac7b521d86562\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\221eba914fff438ffcbc5fd356ff9e1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\221eba914fff438ffcbc5fd356ff9e1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\017ca4bc1b038027946fc0a86244d637\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\017ca4bc1b038027946fc0a86244d637\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55641b6141e82a25b41f464e1a9ba282\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55641b6141e82a25b41f464e1a9ba282\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb341ebe10d4c2e10f44d0189cd4fb06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb341ebe10d4c2e10f44d0189cd4fb06\AndroidManifest.xml:20:5-44
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\waibao\AutoInstaller-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-85
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:22-82
+uses-permission#android.permission.INTERNET
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:22-81
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-83
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:22-80
+service#top.wuhaojie.installerlibrary.InstallAccessibilityService
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:9-36:19
+	android:enabled
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28:13-79
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:25:13-85
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:29:13-31:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:17-92
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:25-89
+meta-data#android.accessibilityservice
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:13-35:72
+	android:resource
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:34:17-60
+provider#android.support.v4.content.FileProvider
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:13-77
+	android:exported
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:43:13-45:54
+	android:resource
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:45:17-51
+	android:name
+		ADDED from [:installerlibrary] E:\waibao\AutoInstaller-master\installerlibrary\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:44:17-67
